@@ -4,8 +4,8 @@ namespace Icinga\Module\Director\Web\Form;
 
 use Icinga\Application\Icinga;
 use Icinga\Application\Modules\Module;
-use dipl\Html\Html;
-use dipl\Html\ValidHtml;
+use ipl\Html\Html;
+use ipl\Html\ValidHtml;
 use Zend_Form;
 
 abstract class QuickBaseForm extends Zend_Form implements ValidHtml

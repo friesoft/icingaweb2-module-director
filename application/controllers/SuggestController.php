@@ -2,7 +2,7 @@
 
 namespace Icinga\Module\Director\Controllers;
 
-use dipl\Html\Html;
+use ipl\Html\Html;
 use Icinga\Module\Director\Objects\IcingaHost;
 use Icinga\Module\Director\Objects\IcingaService;
 use Icinga\Module\Director\Web\Controller\ActionController;
